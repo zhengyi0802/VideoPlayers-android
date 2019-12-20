@@ -1,0 +1,87 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context=".example.MainActivity">
+
+    <item
+        android:id="@+id/style_bookflip"
+        android:title="Book Flip"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/style_cardflip"
+        android:title="Card Flip"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/style_default"
+        android:title="Default"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/style_accordion"
+        android:title="Accordion"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/style_bgntofgn"
+        android:title="Backgound To Forground"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/style_cubein"
+        android:title="Cube In"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/style_cubeout"
+        android:title="Cube Out"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/style_depthpage"
+        android:title="Depth Page"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/style_fliphorizontal"
+        android:title="Flip Horizontal"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/style_flipvertical"
+        android:title="Flip Vertical"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/style_fgntobgn"
+        android:title="Forgound To Background"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/style_rotatedown"
+        android:title="Rotate Down"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/style_rotateup"
+        android:title="Rotate Up"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/style_stack"
+        android:title="Stack"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/style_tablet"
+        android:title="Tablet"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/style_zoomin"
+        android:title="Zoom In"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/style_zoomoutslide"
+        android:title="Zoom Out Slide"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/style_zoomout"
+        android:title="Zoom Out"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/style_draw"
+        android:title="Draw From Background"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/style_parallax"
+        android:title="Parallax Page"
+        app:showAsAction="never"/>
+</menu>

@@ -1,0 +1,2 @@
+include ':IjkPlayerLibrary', ':EasyFlipViewPager', ':ViewTransformers', ':WBvideo2', ':WBVideo3'
+rootProject.name='VideoPlayers'
